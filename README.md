@@ -1,6 +1,6 @@
 # İndikatör / Stratejilerin Kurulumu
 
-İndirilen `dll` dosyalarının, indikatör ise 
+İndirilen `dll` dosyaları, indikatör ise 
 
 > Belgelerim\Makinali\My scripts\bin\Indicators
 
